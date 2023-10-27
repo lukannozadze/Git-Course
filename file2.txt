@@ -1,2 +1,7 @@
 My name is Luka
 test
+<<<<<<< HEAD
+=======
+ocean
+>>>>>>> bugfix
+sun
